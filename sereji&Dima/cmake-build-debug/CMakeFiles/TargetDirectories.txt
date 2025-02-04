@@ -1,0 +1,3 @@
+C:/Users/pc/CLionProjects/Two pointers/sereji&Dima/cmake-build-debug/CMakeFiles/sereji_Dima.dir
+C:/Users/pc/CLionProjects/Two pointers/sereji&Dima/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/pc/CLionProjects/Two pointers/sereji&Dima/cmake-build-debug/CMakeFiles/rebuild_cache.dir
