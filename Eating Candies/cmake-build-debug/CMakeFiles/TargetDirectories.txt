@@ -1,0 +1,3 @@
+C:/Users/pc/CLionProjects/Two pointers/Eating Candies/cmake-build-debug/CMakeFiles/Eating_Candies.dir
+C:/Users/pc/CLionProjects/Two pointers/Eating Candies/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/pc/CLionProjects/Two pointers/Eating Candies/cmake-build-debug/CMakeFiles/rebuild_cache.dir
