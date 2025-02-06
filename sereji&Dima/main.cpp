@@ -28,7 +28,7 @@ int n; cin>>n;
             removed=a[j];
             j--;
         }
-        if(turn==0) {
+        if(turn==0) { // sereji turn
             seraji+=removed;
         }
         else {
