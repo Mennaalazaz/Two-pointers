@@ -1,0 +1,3 @@
+C:/Users/pc/CLionProjects/Two pointers/ Right Left Wrong/cmake-build-debug/CMakeFiles/_Right_Left_Wrong.dir
+C:/Users/pc/CLionProjects/Two pointers/ Right Left Wrong/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/pc/CLionProjects/Two pointers/ Right Left Wrong/cmake-build-debug/CMakeFiles/rebuild_cache.dir
