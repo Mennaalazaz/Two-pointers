@@ -1,0 +1,3 @@
+C:/Users/pc/CLionProjects/Two pointers/Ramadan2025/cmake-build-debug/CMakeFiles/Ramadan2025.dir
+C:/Users/pc/CLionProjects/Two pointers/Ramadan2025/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/pc/CLionProjects/Two pointers/Ramadan2025/cmake-build-debug/CMakeFiles/rebuild_cache.dir
